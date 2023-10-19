@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Aynah1501/Aynah1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Hi I'm Mitia from Sayna .I'm pursuing my degree in Computer Science with a specialization in web development.
+🚀 I'm working on personal projects to apply my knowledge and explore new technologies.
+🌐 I'm looking for opportunities to collaborate on innovative web development projects.
+📫 How to reach me: aynah.av@gmail.com 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br><br> 
+ More about Sayna:https://sayna.io/<br>
+ More about me : [LinkedIn](https://www.linkedin.com/in/AynahAV)
+ <br><br>
+ 
+ --> To the pleasure of exchanging together <--
+ 
